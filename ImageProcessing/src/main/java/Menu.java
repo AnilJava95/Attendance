@@ -1,5 +1,5 @@
 /*
- * Author's name and email: Michael
+ * Author's name and email: Michael, michaeljava95@gmail.com
  * Program description: Main class of the project. Includes GUI and main method.
  * Latest version: 5:49 PM, 5/3/2019. Now the program has multiple classes.
  * Older versions: 2:45 PM, 4/25/2019.

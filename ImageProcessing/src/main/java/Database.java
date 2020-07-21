@@ -1,5 +1,5 @@
 /*
- * Author's name and email: Michael
+ * Author's name and email: Michael, michaeljava95@gmail.com
  * Program description: This class is used by Menu class to do database operations.
  * Latest version: 4:04 PM, 5/6/2019. Carried c and stmt variables to field. Also, 
  *  changed getClassList method so now it doesnt create a fixed 10 length array.

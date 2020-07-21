@@ -1,5 +1,5 @@
 /*
- * Author's name and email: Michael
+ * Author's name and email: Michael, michaeljava95@gmail.com
  * Program description: This class is used by Menu class to either take a photo 
  *  which will be used for ocr.analyze or show a video feed with awt CanvasFrame.
  * Latest version: 5:27 PM, 5/3/2019. Now the program has multiple classes.

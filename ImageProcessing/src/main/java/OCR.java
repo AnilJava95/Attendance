@@ -1,5 +1,5 @@
 /*
- * Author's name and email: Michael
+ * Author's name and email: Michael, michaeljava95@gmail.com
  * Program description: This class is used by Menu class to OCR images.
  * Latest version: 5:49 PM, 5/3/2019. Now the program has multiple classes.
  * Older versions: 2:44 PM, 4/25/2019.
